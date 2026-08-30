@@ -2,7 +2,7 @@ async function loadCampaign() {
   const hero = document.getElementById('campaignHero');
   const grid = document.getElementById('offerGrid');
   try {
-    const response = await fetch('/data/campaign.json', { cache: 'no-store' });
+    const response = await fetch('data/campaign.json', { cache: 'no-store' });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const campaign = await response.json();
 
