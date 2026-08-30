@@ -1,0 +1,35 @@
+{
+  "eyebrow": "🌤️ THỨ 3 — GIỮ MOOD, GIỮ NĂNG LƯỢNG",
+  "titleLine1": "Thứ 3 cũng phải",
+  "titleLine2": "vui chứ! 😆❤️",
+  "description": "Đến giờ nghỉ trưa rồi — tạm gác deadline, làm một ly Cưng Tea và rủ đồng nghiệp đi cùng.",
+  "promoImage": "./assets/fruit-promo.jpg",
+  "promoImageAlt": "Cưng Tea trà trái cây",
+  "offerTitle": "🎁 CƯNG TEA – LUNCH TIME",
+  "offerTime": "11H–16H hôm nay",
+  "offers": [
+    {
+      "tag": "🍊 COMBO",
+      "title": "Combo 2 Trà Trái Cây",
+      "description": "Từ 29K · Tặng 1 topping. Một ly cho bạn, một ly cho đồng đội.",
+      "price": "Từ 29K",
+      "category": "tra-tuoi"
+    },
+    {
+      "tag": "🧋 COMBO",
+      "title": "Combo 2 Trà Sữa",
+      "description": "Từ 49K · Tặng 1 topping. Chọn vị yêu thích trong menu.",
+      "price": "Từ 49K",
+      "category": "tra-sua"
+    },
+    {
+      "tag": "❤️ CƯNG TEA",
+      "title": "Món lẻ từ 15K–40K",
+      "description": "Trà sữa, trà tươi, kem cheese, sữa tươi, sữa chua, kem trứng, Milo dầm...",
+      "price": "Từ 15K",
+      "category": "all"
+    }
+  ],
+  "orderTitle": "🛒 Đặt đơn ngay",
+  "orderSubtitle": "SĐT + địa chỉ là bắt buộc"
+}
